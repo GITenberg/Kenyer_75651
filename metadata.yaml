@@ -1,0 +1,65 @@
+_repo: Kenyer_75651
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Szép, Ernő
+    alias: Szep, Erno
+    birthdate: 1884
+    deathdate: 1953
+    gutenberg_agent_id: '57281'
+    url: http://www.gutenberg.org/2009/agents/57281
+    wikipedia: https://hu.wikipedia.org/wiki/Sz%C3%A9p_Ern%C5%91
+description: 'Reading ease score: 65.0 (8th & 9th grade). Neither easy nor difficult
+  to read.'
+gutenberg_bookshelf:
+- 'Browsing: Philosophy & Ethics'
+- 'Browsing: Fiction'
+gutenberg_issued: '2025-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75651'
+language: hu
+pgterms:marc905: 20250203034235szp
+pgterms:marc906: '1917'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bLégrády Testvérek, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian essays -- 20th century'
+- !lcc 'PH'
+- GITenberg
+summary: '"Kenyér" by Ernő Szép is a reflective and contemplative novel likely written
+  during the early 20th century. The text delves into themes of human existence, suffering,
+  and the stark realities of life during wartime. Through intimate observations and
+  philosophical musings, it grapples with the human condition and the meaning of happiness
+  amidst chaos and sorrow.  At the start of the novel, the author engages the reader
+  with a direct address, encouraging them to examine the themes of life, death, and
+  the fleeting nature of happiness. He reflects on the surreal experiences of existence,
+  introducing a white dog and a sparrow in a playful yet insightful scene that symbolizes
+  the contrast between innocent joy and existential angst. The narrative evolves to
+  evoke the broader context of suffering, particularly through a vignette depicting
+  a blind beggar singing for the kindness of strangers. Through its opening, the text
+  sets the stage for deeper explorations of human emotions and social commentary against
+  a backdrop of war, emphasizing the impermanence of joy and the pervasive nature
+  of pain. (This is an automatically generated summary.)'
+tableOfContents: Előszó -- A szív albumába -- A kutya meg a veréb -- Nyakkendők --
+  Mikor az embert összetévesztik -- Gondolatok -- Az élet dolgai -- M. A. E. -- Hatan
+  a kupéban -- Nefelejcs, árvácska -- Adyt bántják -- Szemek, arcok -- Szegény ember,
+  gazdag ember -- A csirkekolera -- Unod -- Tizennyolcéves katona -- A népek irkája
+  meg a földabrosz -- 1916. julius -- A csók -- Görbén megy a ló -- Volt, hol nem
+  volt -- Füst -- Az ujságpapirról -- Erdélyiek -- Köszönöm, nem kérek -- Gyermekek
+  -- Kabát és kabáttolvaj -- Az asszonyok a bolt előtt -- Bélyeget adnak -- Levél
+  -- Kávé, dohányzás, premiére, minden -- Keresik egymást -- Szalmavirág -- „Tegye
+  azt!“ -- Azt mondják -- Püspökladány -- Dátum -- Példa nélkül lesz -- Vaskrajcár
+  -- Szivaros -- Francia kenyér -- Szinház -- Fátyol -- Románok -- Békeajánlat --
+  Hindenburg meg a többi baba -- Béke meg zsemlye -- Téli hang -- Aranysarkantyu --
+  Boldog -- Tizenkettő -- A gólem -- A madarak -- Egy krajcárért -- Korcsolyáznak
+  -- Gyufa és egyéb elbeszélések -- Varjak és mások is -- Krónika vagy miféle -- A
+  föld -- Kisértet a Fehér Házban -- Egy noteszból kitépett levelek -- Felhőrongyok
+  -- A bolond -- Prológus.
+title: Kenyér
+url: http://www.gutenberg.org/ebooks/75651
